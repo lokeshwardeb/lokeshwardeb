@@ -1,4 +1,4 @@
-[![MasterHead](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)(https://lokeshwardebportfolio.epizy.com/)]
+[![MasterHead](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)](https://lokeshwardebportfolio.epizy.com/)
 
 <h1 align="center">Hi 👋, I'm Lokeshwar Deb Protik</h1>
 <h3 align="center">A passionate fullstack developer</h3>
