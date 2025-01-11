@@ -33,12 +33,12 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deblokeshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deblokeshwar" height="30" width="40" /></a>
-<a href="https://fb.com/lokeshwardebprotik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lokeshwardebprotik" height="30" width="40" /></a>
-<a href="https://instagram.com/lokeshwardeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokeshwardeb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lokeshwardebprotik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lokeshwardebprotik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lokeshwardeb93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lokeshwardeb93" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/lokeshwardebprotik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lokeshwardebprotik" height="30" width="40" /></a>
+<a href="https://twitter.com/deblokeshwar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deblokeshwar" height="30" width="40" /></a>
+<a href="https://fb.com/lokeshwardebprotik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lokeshwardebprotik" height="30" width="40" /></a>
+<a href="https://instagram.com/lokeshwardeb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokeshwardeb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/lokeshwardebprotik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lokeshwardebprotik" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lokeshwardeb93" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lokeshwardeb93" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/lokeshwardebprotik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lokeshwardebprotik" height="30" width="40" /></a>
 </p>
 
 
