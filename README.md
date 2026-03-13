@@ -1,6 +1,6 @@
 
 
-
+[![MasterHead](https://github.com/lokeshwardeb/lokeshwardeb/blob/main/img/Lokeshwar%20Deb%20Protik%20Linkedin%20Banner%20(2).png?raw=true)](https://lokeshwardebportfolio.epizy.com/)
 
 
 
@@ -9,7 +9,8 @@
 <h3 align="center">A passionate fullstack developer</h3>
 
 
-[![MasterHead](https://github.com/lokeshwardeb/lokeshwardeb/blob/main/img/lokeshwar_deb_protik_github.png?raw=true)](https://lokeshwardebportfolio.epizy.com/)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshwardeb&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshwardeb" /> </p>
 
@@ -19,8 +20,32 @@
 
 
 # 💫 About Me:
-Hi, I'm Protik 👋  <br><br>Passionate software developer and Programmer.  <br>I build innovative web & mobile apps with Laravel, React, PHP & JavaScript.  <br>Currently exploring AI, cloud computing, and cutting-edge solutions.  <br>I love hackathons, collaborating on impactful projects, and learning every day! 🚀<br><br>🔭 I’m currently working on NexGenProject<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<div style="display:flex; align-items:center; justify-content:space-between;">
 
+<div>
+
+Hi, I'm Protik 👋  
+
+Passionate software developer and Programmer.  
+I build innovative web & mobile apps with **Laravel, React, PHP & JavaScript**.  
+
+Currently exploring **AI, cloud computing, and cutting-edge solutions**.  
+I love hackathons, collaborating on impactful projects, and learning every day! 🚀  
+
+🔭 I’m currently working on **NexGenProject**  
+👯 I’m looking to collaborate on interesting projects  
+🤝 I’m looking for help with **open-source contributions**  
+🌱 I’m currently learning **AI & Cloud**  
+💬 Ask me about **Laravel & Web Development**  
+⚡ Fun fact: I enjoy solving coding challenges
+
+</div>
+
+<div>
+<img src="https://github.com/lokeshwardeb/lokeshwardeb/blob/main/img/lokeshwar_deb_protik_github.png?raw=true" width="180">
+</div>
+
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lokeshwardebprotik) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lokeshwardeb) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lokeshwardebprotik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokeshwardebprotik@gmail.com) 
