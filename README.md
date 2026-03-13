@@ -9,7 +9,7 @@
 <h3 align="center">A passionate fullstack developer</h3>
 
 
-[![MasterHead](https://github.com/lokeshwardeb/lokeshwardeb/blob/main/img/20251106_125947.jpg?raw=true)](https://lokeshwardebportfolio.epizy.com/)
+[![MasterHead](https://github.com/lokeshwardeb/lokeshwardeb/blob/main/img/20260312_185424.jpg.jpeg?raw=true)](https://lokeshwardebportfolio.epizy.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshwardeb&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshwardeb" /> </p>
 
